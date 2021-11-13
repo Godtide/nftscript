@@ -29,10 +29,10 @@ npx hardhat node --fork https://api.avax.network/ext/bc/C/rpc
 <!-- Open the second terminal -->
 
 ```
-- npx hardhat compile
+ npx hardhat compile
 ```
 ```
-- npx hardhat test
+ npx hardhat test
 ```
 
 
