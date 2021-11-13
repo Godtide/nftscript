@@ -1,11 +1,11 @@
 # Welcome to NftScript 
 
--This is a simple proof of concept cmd script to Mint and transfer NFT's on-chain, feel free to contribute to this repo with new ideas.
+- This is a simple proof of concept cmd script to Mint and transfer NFT's on-chain, feel free to contribute to this repo with new ideas.
 
 
 
 ### Add Image
-Add your .png files to `./input/nft`)
+- Add your .png files to `./input/nft`)
 
 
 # Project Setup
