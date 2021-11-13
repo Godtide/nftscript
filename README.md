@@ -69,8 +69,8 @@ toAddr: 0x5f98Bf2254BF20F70f1ca7722abBa28359591de  -->
 
 -The transfer cmd is currently in-progress, check the config.js file to make a useful PR.
 
-- There's a better way to do the transfer without recreating/redeploying [Readmore] (https://dev.to/hideckies/)ethers-js-cheat-sheet-1h5j]
+- There's a better way to do the transfer without recreating/redeploying [Readmore](https://dev.to/hideckies/ethers-js-cheat-sheet-1h5)
 
 
 Best...
-[Tide][https://github.com/Godtide]
+[Tide](https://github.com/Godtide)
